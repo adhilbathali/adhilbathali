@@ -1,4 +1,7 @@
 ### Hi there 👋
+Iam just simply a computer science student and don't know what to do with his life except than being lazy.
+I stand for confused,loving,mess and grow. Somehow iam liking GitHub and the cool things it could offer. Iam a noob and will be a pro.
+So don't forget to grab me before i slip😉
 
 <!--
 **adhilbathali/adhilbathali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
